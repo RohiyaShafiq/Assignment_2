@@ -1,0 +1,32 @@
+{
+  "epsilons": {
+    "0.05": {
+      "epsilon": 0.05,
+      "cached_clipped_surrogate": -0.08907753229141235,
+      "unclipped_surrogate": -0.021013405174016953,
+      "affected_token_fraction": 0.5481052994728088
+    },
+    "0.2": {
+      "epsilon": 0.2,
+      "cached_clipped_surrogate": -0.06708662211894989,
+      "unclipped_surrogate": -0.021013405174016953,
+      "affected_token_fraction": 0.33242568373680115
+    },
+    "0.5": {
+      "epsilon": 0.5,
+      "cached_clipped_surrogate": -0.04372148960828781,
+      "unclipped_surrogate": -0.021013405174016953,
+      "affected_token_fraction": 0.1752893179655075
+    }
+  },
+  "diagnostics": {
+    "ratio_mean": 0.9123692512512207,
+    "ratio_std": 0.6516382694244385,
+    "ratio_min": 2.06115369216775e-09,
+    "ratio_max": 29.716583251953125,
+    "mean_advantage": -5.409997339000938e-09,
+    "std_advantage": 0.9999999403953552,
+    "num_rollouts": 32,
+    "num_response_tokens": 8814
+  }
+}

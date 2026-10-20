@@ -1,0 +1,7 @@
+{
+  "name": "clip_020",
+  "num_examples": 200,
+  "heldout_reward": 1.432012915611267,
+  "heldout_kl": 1.6423988199676387e-05,
+  "heldout_response_length": 289.5849914550781
+}
