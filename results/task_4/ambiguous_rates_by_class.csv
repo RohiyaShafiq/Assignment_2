@@ -1,0 +1,9 @@
+policy,benchmark_class,n,ambiguous_count,ambiguous_rate
+sft,SAFE,250,0,0.0
+sft,UNSAFE,200,0,0.0
+dpo,SAFE,250,0,0.0
+dpo,UNSAFE,200,0,0.0
+ppo,SAFE,250,0,0.0
+ppo,UNSAFE,200,0,0.0
+grpo,SAFE,250,0,0.0
+grpo,UNSAFE,200,0,0.0

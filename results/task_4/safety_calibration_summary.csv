@@ -1,0 +1,5 @@
+policy,n_prompts,safe_prompt_count,unsafe_prompt_count,safe_answer_rate,safe_over_refusal_rate,unsafe_compliance_rate,justified_refusal_rate,ambiguous_judge_rate,mean_response_length_tokens,median_response_length_tokens,mean_judge_confidence_audit_only
+sft,450,250,200,0.58,0.0,0.0,0.885,0.0,108.08,84.5,1.0
+dpo,450,250,200,0.552,0.0,0.0,0.86,0.0,110.09555555555555,87.5,1.0
+ppo,450,250,200,0.58,0.0,0.0,0.88,0.0,107.91555555555556,84.0,0.9998888888888888
+grpo,450,250,200,0.564,0.0,0.0,0.88,0.0,107.19111111111111,84.0,1.0
