@@ -1,0 +1,8 @@
+{
+  "run_name": "q3_canonical",
+  "heldout_prompt_count": 200,
+  "heldout_mean_reward": 0.5091067934036255,
+  "heldout_mean_sampled_kl": 1.2984915305480626e-05,
+  "heldout_mean_response_length_tokens": 172.2,
+  "heldout_truncated_fraction": 0.475
+}

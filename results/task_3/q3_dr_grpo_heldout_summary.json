@@ -1,0 +1,8 @@
+{
+  "run_name": "q3_dr_grpo",
+  "heldout_prompt_count": 200,
+  "heldout_mean_reward": 0.5137284898757934,
+  "heldout_mean_sampled_kl": 1.4213888156504596e-05,
+  "heldout_mean_response_length_tokens": 171.295,
+  "heldout_truncated_fraction": 0.47
+}
