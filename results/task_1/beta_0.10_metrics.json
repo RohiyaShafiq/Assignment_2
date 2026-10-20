@@ -1,0 +1,19 @@
+{
+  "experiment": "beta_0.10",
+  "adapter": "outputs/task1_dpo/beta_0.10",
+  "base_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "evaluation_dataset": "data/dpo_standard_eval.jsonl",
+  "evaluation_examples": 290,
+  "preference_accuracy": 0.634482741355896,
+  "mean_policy_margin": -11.229981422424316,
+  "mean_reference_margin": -11.691150665283203,
+  "mean_dpo_margin": 0.461168110370636,
+  "kl_from_reference_mean": 0.0005771202268078923,
+  "kl_from_reference_median": 0.00037084397627040744,
+  "reward_model_score_mean": 1.2497628927230835,
+  "reward_model_score_median": 1.3544921875,
+  "response_length_mean_tokens": 149.74827575683594,
+  "response_length_median_tokens": 170.0,
+  "response_length_min_tokens": 1.0,
+  "response_length_max_tokens": 257.0
+}
