@@ -1,0 +1,21 @@
+base_config: configs/base.yaml
+updates: 20
+fork_updates: 8
+prompts_per_update: 1
+policy_epochs: 1
+learning_rate: 5.0e-06
+clip_epsilon: 0.2
+kl_beta: 0.1
+num_generations: 4
+group_sizes:
+- 2
+- 4
+- 8
+max_prompt_length: 128
+max_completion_length: 256
+mask_truncated_completions: true
+max_grad_norm: 1.0
+output: outputs/task3_grpo/q1_standard_grpo
+results_dir: results/task3_grpo
+group_cache: cached/grpo_k_cache.jsonl
+cache_generation_cap: 768
