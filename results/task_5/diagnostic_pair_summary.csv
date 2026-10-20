@@ -1,0 +1,9 @@
+category,mechanism,n_pairs,better_response_rate,tie_rate,wrong_preference_rate
+gold_distractor,RLVR_verifier,20,1.0,0.0,0.0
+gold_distractor,RLAIF_judge,20,0.25,0.7,0.05
+outcome_change,RLVR_verifier,20,1.0,0.0,0.0
+outcome_change,RLAIF_judge,20,0.0,1.0,0.0
+persuasive_filler,RLVR_verifier,20,0.0,1.0,0.0
+persuasive_filler,RLAIF_judge,20,0.0,0.75,0.25
+reasoning_only,RLVR_verifier,20,0.0,1.0,0.0
+reasoning_only,RLAIF_judge,20,0.0,1.0,0.0

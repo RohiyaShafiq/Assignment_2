@@ -1,0 +1,5 @@
+metric,mechanism,n_eligible_pairs,sensitivity_better_rate,tie_rate,wrong_preference_rate
+Sreason,RLVR_verifier,20,0.0,1.0,0.0
+Sreason,RLAIF_judge,20,0.0,1.0,0.0
+Soutcome,RLVR_verifier,20,1.0,0.0,0.0
+Soutcome,RLAIF_judge,20,0.0,1.0,0.0

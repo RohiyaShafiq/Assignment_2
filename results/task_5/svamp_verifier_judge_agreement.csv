@@ -1,0 +1,3 @@
+candidate_policy,exact_rank_agreement,unequal_correctness_pairs,judge_directional_agreement,judge_tie_rate
+rlaif,0.46,41,0.7333333333333333,0.61
+rlvr,0.46,49,0.8260869565217391,0.53
